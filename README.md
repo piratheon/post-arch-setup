@@ -62,8 +62,5 @@ Edit variables at the top of `setup-arch.sh` before running:
 ## Contributing
 Open issues or PRs at: https://github.com/piratheon/post-arch-setup
 
-## License
-Add a LICENSE file (e.g., MIT) to the repo.
-
 ## Author
 piratheon — https://github.com/piratheon
